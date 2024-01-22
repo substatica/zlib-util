@@ -1,4 +1,4 @@
-## Unreal Engine zlib Save Utilities
+## Unreal Engine Save zlib Utility
 
 This is a console based utility for extracting and compressing Unreal Engine save files which have been compressed into zlib chunks.
 
